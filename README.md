@@ -1,4 +1,4 @@
-# Cards Against Humanity Browswer Game
+# Cards Against Humanity Browser Game
 
 ![Alt text](https://i.imgur.com/qAFAcqN.png "Screenshot of app")
 
